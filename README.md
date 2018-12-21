@@ -20,3 +20,12 @@ This repository contains the code samples of my blog posts. You can find my blog
 15. [Part 15 - Callable and Future](https://codeleague.redquark.org/2018/12/threads-in-java-callable-and-future.html)
 16. [Part 16 - Deadlock](https://codeleague.redquark.org/2018/12/threads-in-java-deadlock-part-16.html)
 17. [art 17 - Daemon Thread](https://codeleague.redquark.org/2018/12/threads-in-java-daemon-thread-part-17.html)
+
+## File I/O
+0. [Part 0 - Masterclass](https://codeleague.redquark.org/2018/12/io-in-java-masterclass-part-0.html)
+1. [Part 1 - Basics](https://codeleague.redquark.org/2018/12/io-in-java-introduction-part-1.html)
+2. [Part 2 - IO vs. NIO](https://codeleague.redquark.org/2018/12/io-in-java-nio-vs-io-part-2.html)
+3. [Part 3 - try-with-resources](https://codeleague.redquark.org/2018/12/io-in-java-try-with-resources-part-3.html)
+4. [Part 4 - Directory Operations](https://codeleague.redquark.org/2018/12/io-in-java-directory-operations-part-4.html)
+5. [Part 5 - File Operations](https://codeleague.redquark.org/2018/12/io-in-java-file-operations-part-5.html)
+6. [Part 6 - Temporary File Operations](https://codeleague.redquark.org/2018/12/io-in-java-temporary-file-operations.html)
